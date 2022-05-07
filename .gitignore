@@ -131,3 +131,6 @@ desktop.ini
 
 # Pyre type checker
 .pyre/
+
+# Config files for keys
+config.py
